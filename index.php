@@ -11,5 +11,6 @@ $app->get('/', function() use($app) {
 	return 'OK';
 });
 
+//php coisa linda
 //executa
 $app->run();
